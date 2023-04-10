@@ -1,4 +1,4 @@
-# Candidature-pour-Heretic-SAS-Paradoxa-SARL
+#Machine learning and Web scraping
 repo contient des extraits de code de python: Machine learning et web scraping
 
 
